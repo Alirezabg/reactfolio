@@ -7,6 +7,7 @@ const INFO = {
 	},
 
 	socials: {
+		twitter: "https://twitter.com/",
 		github: "https://github.com/Alirezabg",
 		linkedin: "https://linkedin.com/in/alirezabg/",
 		instagram: "https://instagram.com/",
