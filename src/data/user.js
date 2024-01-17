@@ -22,9 +22,9 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Alireza Bagheri. I live in London, where I design the future.",
+		title: "About Me",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"Experienced in configuring GitHub Actions pipelines and optimizing CI/CD processes. Demonstrated expertise in collaborating with diverse teams to ensure system reliability and efficiency. An advocate for process automation, infrastructure-as-code enhancements, and the pursuit of operational excellence. Recently completed a project connecting the experience of data projects with DevOps.",
 	},
 
 	articles: {
