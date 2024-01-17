@@ -32,6 +32,36 @@ const INFO = {
 		description:
 			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
 	},
+	experience: [
+		{
+			title: "Data Science Internship",
+			company: "Low Carbon",
+			duration: "July 2023 - Sep 2023",
+			description:
+				"Led a team of five to create an insight application comparing solar farm efficiency. Preprocessed data and built a live dashboard for the Asset Management team. Led a project updating the Solar Development team on daily UK power market changes.",
+		},
+		{
+			title: "DevOps Engineer",
+			company: "CodeYourFuture",
+			duration: "March 2023 - June 2023",
+			description:
+				"Implemented pipelines, optimized CI/CD workflows, and managed cloud-based infrastructure. Led the development and deployment of Infrastructure-as-Code using Terraform. Troubleshooted and resolved cloud-related issues in AWS and Kubernetes.",
+		},
+		{
+			title: "Software Developer",
+			company: "CodeYourFuture",
+			duration: "January 2023 - March 2023",
+			description:
+				"Improved the internal platform for volunteer management using React, Jest, MongoDB, Node.js, and Swagger. Followed Agile methodology and used Kanban board for project management.",
+		},
+		{
+			title: "Tech Mentor",
+			company: "CodeYourFuture",
+			duration: "October 2022 - January 2023",
+			description:
+				"Mentored software developer trainees, providing guidance on HTML/CSS, JavaScript, and React. Assisted trainees in setting up Linux and VS Code for software development training.",
+		},
+	],
 
 	projects: [
 		{
