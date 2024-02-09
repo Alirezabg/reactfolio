@@ -44,16 +44,16 @@ const Projects = () => {
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							I've worked on a variety of projects over the years
-							and I'm proud of the progress I've made. Many of
-							these projects are open-source and available for
-							others to explore and contribute to. If you're
-							interested in any of the projects I've worked on,
-							please feel free to check out the code and suggest
-							any improvements or enhancements you might have in
-							mind. Collaborating with others is a great way to
-							learn and grow, and I'm always open to new ideas and
-							feedback.
+							During my time at Low Carbon as a Data Science
+							Intern and throughout my roles at CodeYourFuture,
+							I've been fortunate to contribute to a variety of
+							impactful projects. While these projects may not all
+							be open-source, they have provided valuable learning
+							experiences and opportunities for growth. If any of
+							the projects I've worked on pique your interest, I
+							welcome the chance to discuss them further and hear
+							your thoughts on potential improvements or
+							enhancements.
 						</div>
 
 						<div className="projects-list">

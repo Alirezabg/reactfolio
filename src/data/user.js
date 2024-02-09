@@ -18,7 +18,7 @@ const INFO = {
 	homepage: {
 		title: "Full-stack web developer.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Experienced in configuring GitHub Actions pipelines and optimising CI/CD processes. Demonstrated expertise in collaborating with diverse teams to ensure system reliability and efficiency. An advocate for process automation, infrastructure-as-code enhancements, and the pursuit of operational excellence. Recently completed a project connecting the experience of data projects with DevOps.",
 	},
 
 	about: {
@@ -65,48 +65,21 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Akwaabaaa",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Working in a team and building project for real clients using management tools like Scrum and Agile and applying soft skills. Using React, Node.js,Typescript and Prisma to make a website for Akwaaba social centre. ",
+			logo: "https://akwaaba.org.uk/wp-content/uploads/2017/06/imageedit_2_2929776415-1.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Awyssa/web-wanderers-final-project",
 		},
 
 		{
-			title: "Project 2",
+			title: "DevOps Project",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				" I employed Google Cloud Platform (GCP) to provision resources, including Google Cloud Run and databases, ensuring their robust security. Utilizing Terraform, I automated infrastructure deployment and established CI/CD pipelines, facilitating Dockerfile generation and artifact repository management. Sensitive information was securely stored in Secret Manager, with TLS encryption layers and load balancers enhancing data protection. Employing Virtual Private Clouds (VPCs) in a three-tier application architecture, I restricted user access to only the front-end, prioritizing stringent security measures.",
+			logo: "https://www.vlrtraining.in/wp-content/uploads/2020/10/logo-devops.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/Alirezabg/Devops-project",
 		},
 	],
 };
